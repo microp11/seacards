@@ -2,43 +2,36 @@
   "version": "1",
   "qcards": [
     {
-      "id": "1",
       "categoryId": "1",
       "faceText": "Face Text1?",
       "flippedFaceText": "Flipped face text 1."
     },
     {
-      "id": "2",
       "categoryId": "2",
       "faceText": "Face Text2?",
       "flippedFaceText": "Flipped face text 2."
     },
     {
-      "id": "3",
       "categoryId": "3",
       "faceText": "Face Text3?",
       "flippedFaceText": "Flipped face text 3."
     },
     {
-      "id": "4",
       "categoryId": "3",
       "faceText": "Face Text4?",
       "flippedFaceText": "Flipped face text 4."
     },
     {
-      "id": "5",
       "categoryId": "3",
       "faceText": "Face Text5?",
       "flippedFaceText": "Flipped face text 5."
     },
     {
-      "id": "6",
       "categoryId": "3",
       "faceText": "Face Text6?",
       "flippedFaceText": "Flipped face text 6."
     },
     {
-      "id": "7",
       "categoryId": "4",
       "faceText": "Face Text7?",
       "flippedFaceText": "Flipped face text 7."
