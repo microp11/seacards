@@ -3,23 +3,15 @@
   "categories": [
     {
       "id": "1",
-      "title": "Coaching"
+      "title": "Category 1"
     },
     {
       "id": "2",
-      "title": "Skills"
+      "title": "category 2"
     },
     {
       "id": "3",
-      "title": "Rules"
-    },
-    {
-      "id": "4",
-      "title": "Paddle Canada"
-    },
-    {
-      "id": "5",
-      "title": "Tides"
+      "title": "Category 3"
     }
   ]
 }

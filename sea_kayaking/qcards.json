@@ -2,69 +2,46 @@
   "version": "1",
   "qcards": [
     {
+      "id": "1",
       "categoryId": "1",
-      "faceText": "What is the meaning of each letter in TTPPEE?",
-      "flippedFaceText": "Technical, Tactical, Physical, Psychological, Equipment  and Environment."
+      "faceText": "Face Text1?",
+      "flippedFaceText": "Flipped face text 1."
     },
     {
-      "categoryId": "4",
-      "faceText": "How old do participants have to be before they can participate without a parent?",
-      "flippedFaceText": "There is no age policy for when parental accompaniment is necessary or not, that’s up to you to set a policy as needed as an instructor."
-    },
-    {
+      "id": "2",
       "categoryId": "2",
-      "faceText": "What should you do immediately after a wet exit?",
-      "flippedFaceText": "Hold on to your boat, hold on to your paddle. Actively initiate your self-rescue."
+      "faceText": "Face Text2?",
+      "flippedFaceText": "Flipped face text 2."
     },
     {
-      "categoryId": "1",
-      "faceText": "What do we mean by Shared Mental Model?",
-      "flippedFaceText": "Shared knowledge that enables team members to predict the needs of the task and anticipate the actions of other team members, allowing them to adjust their behavior accordingly."
+      "id": "3",
+      "categoryId": "3",
+      "faceText": "Face Text3?",
+      "flippedFaceText": "Flipped face text 3."
     },
     {
-      "categoryId": "2",
-      "faceText": "What does CLAP stands for?",
-      "flippedFaceText": "Communication, Line of sight, Avoidance and awareness, Position of maximum usefulness."
+      "id": "4",
+      "categoryId": "3",
+      "faceText": "Face Text4?",
+      "flippedFaceText": "Flipped face text 4."
     },
     {
+      "id": "5",
+      "categoryId": "3",
+      "faceText": "Face Text5?",
+      "flippedFaceText": "Flipped face text 5."
+    },
+    {
+      "id": "6",
+      "categoryId": "3",
+      "faceText": "Face Text6?",
+      "flippedFaceText": "Flipped face text 6."
+    },
+    {
+      "id": "7",
       "categoryId": "4",
-      "faceText": "What is the First Aid Requirement Policy for Instructors?",
-      "flippedFaceText": "It is the instructor’s responsibility to always run their courses within their first aid certification’s scope of practice. Paddle Canada Instructors are required to maintain a minimum of Standard First Aid and CPR (14 hours) or Wilderness First Aid (16 hours) as well as CPR training. Insurance and sanctioned courses are not valid unless all instructors and registered assistants on the course meet the minimum first aid requirements as outlined in the specific course syllabus."
-    },
-    {
-      "categoryId": "5",
-      "faceText": "What is the rule of 12-ths?",
-      "flippedFaceText": "Important when navigating a boat in tidal waters. Take the difference in height between the high and low tide on that day, and divide that by 12 equal chunks. For example, if high tide was 8ft above chart datum, and low is 2ft above chart datum – there is a 6ft difference, divided that into 12 even chunks; equaling 0.5ft per chunk.What we then do is assume that there is a 6 hour gap between high and low tide; although not completely accurate, it is close enough for what we are attempting here. So starting at low tide: The first hour, 1 twelfth of the tide would rise; so one chunk would come in, 0.5 ft.The second hour, 2 twelfths of the total will come in, therefore 1 ft. The third hour, the tide is starting to move quickly, and so 3 twelfths will come on, therefore 1.5ft. At this point we are now passing mid tide. The fourth hour again is 3 twelfths, so another 1.5ft. The fifth hour the tide slows down again, 2 twelfths, therefore 1ft. The sixth and final hour, 1 twelfth would come in, and therefore 0.5ft. The tide would then drop following the same pattern."
-    },
-    {
-      "categoryId": "4",
-      "faceText": "What is the water class definition for Class 0?",
-      "flippedFaceText": "Non-challenging protected waters with limited wind effect, little or no current, easy landings, and ready access to land-based assistance. Wind and sea state is calm to rippled (<16 km/h or 8 knots)."
-    },
-    {
-      "categoryId": "4",
-      "faceText": "What is the water class definition for Class 1?",
-      "flippedFaceText": "Non-challenging waters with mild wind effect (0-22 km/h or 0–11 knots), little or no current (0-1 km/h or 0–0.5 knots), uninterrupted easy landing options, and ready access to land-based assistance. Sea state is calm to smooth (0.1 to 0.5m wavelets)."
-    },
-    {
-      "categoryId": "4",
-      "faceText": "What is the water class definition for Class 2?",
-      "flippedFaceText": "Moderately exposed coastline with frequent easy-landing opportunities and short crossings. Moderate potential wind effects (24-40 km/h or 12–19 knots), surf of less than 1 meter and a combined sea state of slight (0.5 to 1.25m), gentle to moderate non-turbulent currents (< 6 km/h or < 3 knots), and light surf beaches. Short delays in access to land-based assistance should be expected."
-    },
-    {
-      "categoryId": "4",
-      "faceText": "What is the water class definition for Class 3?",
-      "flippedFaceText": "Exposed water, with more committed crossings and any combination of the following: moderate to strong currents with turbulence (≥ 6 km/h or ≥ 3 knots), moderate to strong wind effects (24-40 km/h or 12–19 knots), ocean swells and a combined sea state near 1 meter with occasional moderate sea state (1.25 to 2.5m). Difficult but frequent landing opportunities, surf-beaches with surf up to 1 metre. Delays in access to land-based assistance can expected."
-    },
-    {
-      "categoryId": "4",
-      "faceText": "What is the water class definition for Class 4?",
-      "flippedFaceText": "Rugged and exposed coast with long and committed crossings and any combination of the following: strong turbulent currents (≥ 6 km/h or ≥ 3 knots), strong wind effects (near 40 km/h or 20 knots), large swells with a combined sea state of 1 metre or more with occasional slight (0.5 to 1.25m) to moderate (1.25 to 2.5m) sea state, exposed surf beaches (≥ 1 metre), infrequent and sometimes difficult landings which present significant challenges for individual safety and group management. Significant delays in access to land-based assistance can be expected."
-    },
-    {
-      "categoryId": "2",
-      "faceText": "What is the international sign for distress? (inside joke)",
-      "flippedFaceText": "Ask Chris!"
+      "faceText": "Face Text7?",
+      "flippedFaceText": "Flipped face text 7."
     }
   ]
 }
