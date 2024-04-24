@@ -3,38 +3,79 @@
   "qcards": [
     {
       "categoryId": "1",
-      "faceText": "Face Text1?",
-      "flippedFaceText": "Flipped face text 1."
+      "faceText": "Rolling",
+      "flippedFaceText": "3 out of 4 times in level 2 conditions."
+    },
+    {
+      "categoryId": "1",
+      "faceText": "Unassisted Rescues",
+      "flippedFaceText": "Re-enter and roll in calm conditions, paddle boat back."
+    },
+    {
+      "categoryId": "1",
+      "faceText": "Assisted Rescues",
+      "flippedFaceText": "Effectively manage the rescue of a victim who has been separated from boat in current < 3 knots or in a rock garden with small breaking waves."
+    },
+    {
+      "categoryId": "1",
+      "faceText": "Towing",
+      "flippedFaceText": "As the leader of a group manage a single tow (one person requiring assistance) for less than 30 minutes. Select an appropriate area to land a towed boat along an exposed coastline. Demonstrate effective quick release, re-deployment of personal tow system and the ability to quickly switch towers. Capsize, release and roll while towing in clam conditions."
     },
     {
       "categoryId": "2",
-      "faceText": "Face Text2?",
-      "flippedFaceText": "Flipped face text 2."
+      "faceText": "Launching",
+      "flippedFaceText": "Effectively manage the launching of a group and self in surf < 1 meter."
+    },
+    {
+      "categoryId": "2",
+      "faceText": "Landing",
+      "flippedFaceText": "Select an appropriate place to land a group along an exposed coastline with surf. Manage the successful landing of a group and self in surf < 1 meter."
+    },
+    {
+      "categoryId": "2",
+      "faceText": "Forward Paddling",
+      "flippedFaceText": "Maintain sufficient speed and directional control while paddling in a head, beam and stern wind of near 20 knots over a distance of 1 nautical mile without the use of skegs and rudders. Torso rotation must be evident."
+    },
+    {
+      "categoryId": "2",
+      "faceText": "Manoeuvring",
+      "flippedFaceText": "Frequently link strokes and employ edging to manoeuvre around rocks, in current, surf and other obstacles. Demonstrate an effective eddy turn in current < 3 knots. Demonstrate an effective ferry-angle across current < 3 knots."
+    },
+    {
+      "categoryId": "2",
+      "faceText": "Bracing",
+      "flippedFaceText": "Remain upright and demonstrate safe positioning of body while broached and braced into a wave of height < 1 meter. No preparation or set up permitted; usage of braces must be real and necessary."
+    },
+
+    {
+      "categoryId": "3",
+      "faceText": "Communication",
+      "flippedFaceText": "Use appropriate arm and/or hand signals to land a paddler in surf < 1 meter. Produce on demand, a group communication device appropriate to the area (VHF radio, sat phone, cell phone) and flares at any time while on the water."
     },
     {
       "categoryId": "3",
-      "faceText": "Face Text3?",
-      "flippedFaceText": "Flipped face text 3."
+      "faceText": "Navigation",
+      "flippedFaceText": "Piloting: identify 3 out of 4 landmarks in a given area using transits, handrails, backstops and/or bearings. Dead Reckoning: From land, plot an accurate dead reckoning course identifying heading, distance and estimated time and paddle said course in low visibility conditions (night or fog). The target should less than 1 nautical mile in distance and distinctive."
     },
     {
       "categoryId": "3",
-      "faceText": "Face Text4?",
-      "flippedFaceText": "Flipped face text 4."
+      "faceText": "Weather",
+      "flippedFaceText": "In a logbook provide, in writing, 3-days of prior weather information and a personal forecast for departure date. Regularly use and interpret a personal log of weather observations and professional forecasts to assist a group plan a route while on an overnight trip. Identify two likely areas on a chart with land/wind interactions such as gap winds, clapotis, etc. for level 2 conditions."
     },
     {
       "categoryId": "3",
-      "faceText": "Face Text5?",
-      "flippedFaceText": "Flipped face text 5."
+      "faceText": "Leadership",
+      "flippedFaceText": "Demonstrate the effective and efficient management of simple scenarios in level 2 conditions such as hypothermia, fear, seasickness, dislocated shoulder, or the inability of a paddler to paddle a beam wind. Candidate will direct the resolution of a scenario, demonstrating wise utilisation of group resources and appropriate members of the party to resolve problems. Demonstrates good 'expedition behaviour', frequently assisting with camp chores such as cooking, cleaning, setting up tarps, looking after camp, other participants and group equipment. Usually selects leadership styles appropriate to the group and situation. While journeying in Level 2 conditions, work to ensure the group is close enough to allow for visual and clear audio contact."
     },
     {
       "categoryId": "3",
-      "faceText": "Face Text6?",
-      "flippedFaceText": "Flipped face text 6."
+      "faceText": "Trip Planning",
+      "flippedFaceText": "Use resources to identify potential hazards along an exposed coastline with frequent landing zones. Facilitate a group's understanding of those potential hazards and the group's acceptance or rejection of route's hazards. Use tide tables to calculate times of high and low water. Determine a ferry angle for crossing a current. File a written float-plan for the group"
     },
     {
-      "categoryId": "4",
-      "faceText": "Face Text7?",
-      "flippedFaceText": "Flipped face text 7."
+      "categoryId": "3",
+      "faceText": "Resources",
+      "flippedFaceText": "As part of a trip planning exercise, access and use at least three different resources, to identify hazards or points of interest about a proposed route through level 2 conditions. Such resources may include but are not limited to, the names of other paddlers, guidebooks, trip reports, names of local boaters, sailing directions and/or local weather guides."
     }
   ]
 }
