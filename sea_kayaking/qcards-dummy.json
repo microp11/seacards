@@ -1,0 +1,110 @@
+{
+  "version": "1",
+  "qcards": [
+    {
+      "categoryId": "1",
+      "faceText": "What is the meaning of each letter in TTPPEE?",
+      "flippedFaceText": "Technical, Tactical, Physical, Psychological, Equipment  and Environment."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "How old do participants have to be before they can participate without a parent?",
+      "flippedFaceText": "There is no age policy for when parental accompaniment is necessary or not, that's up to you to set a policy as needed as an instructor."
+    },
+    {
+      "categoryId": "2",
+      "faceText": "What should you do immediately after a wet exit?",
+      "flippedFaceText": "Hold on to your boat, hold on to your paddle. Actively initiate your self-rescue."
+    },
+    {
+      "categoryId": "1",
+      "faceText": "What do we mean by Shared Mental Model?",
+      "flippedFaceText": "Shared knowledge that enables team members to predict the needs of the task and anticipate the actions of other team members, allowing them to adjust their behavior accordingly."
+    },
+    {
+      "categoryId": "2",
+      "faceText": "What does CLAP stands for?",
+      "flippedFaceText": "Communication, Line of sight, Avoidance and awareness, Position of maximum usefulness."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "What is the First Aid Requirement Policy for Instructors?",
+      "flippedFaceText": "It is the instructor's responsibility to always run their courses within their first aid certification's scope of practice. Paddle Canada Instructors are required to maintain a minimum of Standard First Aid and CPR (14 hours) or Wilderness First Aid (16 hours) as well as CPR training. Insurance and sanctioned courses are not valid unless all instructors and registered assistants on the course meet the minimum first aid requirements as outlined in the specific course syllabus."
+    },
+    {
+      "categoryId": "5",
+      "faceText": "What is the rule of 12-ths?",
+      "flippedFaceText": "Important when navigating a boat in tidal waters. Take the difference in height between the high and low tide on that day, and divide that by 12 equal chunks. For example, if high tide was 8ft above chart datum, and low is 2ft above chart datum - there is a 6ft difference, divided that into 12 even chunks; equaling 0.5ft per chunk.What we then do is assume that there is a 6 hour gap between high and low tide; although not completely accurate, it is close enough for what we are attempting here. So starting at low tide: The first hour, 1 twelfth of the tide would rise; so one chunk would come in, 0.5 ft.The second hour, 2 twelfths of the total will come in, therefore 1 ft. The third hour, the tide is starting to move quickly, and so 3 twelfths will come on, therefore 1.5ft. At this point we are now passing mid tide. The fourth hour again is 3 twelfths, so another 1.5ft. The fifth hour the tide slows down again, 2 twelfths, therefore 1ft. The sixth and final hour, 1 twelfth would come in, and therefore 0.5ft. The tide would then drop following the same pattern."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "What is the water class definition for Class 0?",
+      "flippedFaceText": "Non-challenging protected waters with limited wind effect, little or no current, easy landings, and ready access to land-based assistance. Wind and sea state is calm to rippled (<16 km/h or 8 knots)."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "What is the water class definition for Class 1?",
+      "flippedFaceText": "Non-challenging waters with mild wind effect (0-22 km/h or 0-11 knots), little or no current (0-1 km/h or 0-0.5 knots), uninterrupted easy landing options, and ready access to land-based assistance. Sea state is calm to smooth (0.1 to 0.5m wavelets)."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "What is the water class definition for Class 2?",
+      "flippedFaceText": "Moderately exposed coastline with frequent easy-landing opportunities and short crossings. Moderate potential wind effects (24-40 km/h or 12-19 knots), surf of less than 1 meter and a combined sea state of slight (0.5 to 1.25m), gentle to moderate non-turbulent currents (< 6 km/h or < 3 knots), and light surf beaches. Short delays in access to land-based assistance should be expected."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "What is the water class definition for Class 3?",
+      "flippedFaceText": "Exposed water, with more committed crossings and any combination of the following: moderate to strong currents with turbulence (≥ 6 km/h or ≥ 3 knots), moderate to strong wind effects (24-40 km/h or 12-19 knots), ocean swells and a combined sea state near 1 meter with occasional moderate sea state (1.25 to 2.5m). Difficult but frequent landing opportunities, surf-beaches with surf up to 1 metre. Delays in access to land-based assistance can expected."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "What is the water class definition for Class 4?",
+      "flippedFaceText": "Rugged and exposed coast with long and committed crossings and any combination of the following: strong turbulent currents (≥ 6 km/h or ≥ 3 knots), strong wind effects (near 40 km/h or 20 knots), large swells with a combined sea state of 1 metre or more with occasional slight (0.5 to 1.25m) to moderate (1.25 to 2.5m) sea state, exposed surf beaches (≥ 1 metre), infrequent and sometimes difficult landings which present significant challenges for individual safety and group management. Significant delays in access to land-based assistance can be expected."
+    },
+    {
+      "categoryId": "2",
+      "faceText": "What is the international sign for distress? (inside joke)",
+      "flippedFaceText": "Ask Chris!"
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is Don't Repeat Yourself (DRY)?",
+      "flippedFaceText": "Don't Repeat Yourself (DRY): This principle emphasizes the importance of avoiding duplication of code within a software system. DRY suggests that every piece of knowledge or logic should have a single, unambiguous representation within the system. This reduces the risk of inconsistencies, simplifies maintenance, and promotes code reusability."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is the Keep It Simple, Stupid (KISS) Principle?",
+      "flippedFaceText": "Keep It Simple, Stupid (KISS): The KISS principle advocates for simplicity in design and implementation. It suggests that software systems should be kept as simple as possible, avoiding unnecessary complexity. Simple solutions are easier to understand, maintain, and debug. KISS encourages developers to prioritize clarity and straightforwardness over unnecessary sophistication."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is Single Responsibility Principle (SRP)?",
+      "flippedFaceText": "Single Responsibility Principle (SRP): SRP states that each class or module in a software system should have only one reason to change. In other words, a component should have a single responsibility or concern. By adhering to SRP, developers can create more modular, reusable, and maintainable code. It also facilitates easier testing and reduces the impact of changes on other parts of the system."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is Open/Closed Principle (OCP)?",
+      "flippedFaceText": "Open/Closed Principle (OCP): OCP suggests that software entities (classes, modules, functions, etc.) should be open for extension but closed for modification. This means that the behavior of a component can be extended or enhanced without altering its source code. OCP promotes code stability, scalability, and flexibility by allowing for easy customization and adaptation to changing requirements."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is Dependency Inversion Principle (DIP)?",
+      "flippedFaceText": "Dependency Inversion Principle (DIP): DIP advocates for decoupling higher-level modules from lower-level modules by introducing abstractions and interfaces. According to DIP, high-level modules should not depend on low-level modules; instead, both should depend on abstractions. This reduces direct dependencies between components, making the system more flexible, maintainable, and testable. DIP enables easier substitution of components and promotes modular design."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is the Current Reality Tree?",
+      "flippedFaceText": "The Current Reality Tree (CRT) is a visual representation used in the Theory of Constraints (TOC) methodology to analyze and identify the root causes of problems or constraints within a system. It depicts the current state of the system, highlighting cause-and-effect relationships among various factors contributing to the observed problems."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is the Future Reality Tree?",
+      "flippedFaceText": "The Future Reality Tree (FRT) is a visual tool in the Theory of Constraints (TOC) methodology used to envision and plan for desired improvements or outcomes in a system. It outlines the future state of the system, depicting the changes needed to overcome constraints and achieve defined objectives."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What are KPIs?",
+      "flippedFaceText": "KPIs, or Key Performance Indicators, are measurable values that demonstrate how effectively a company is achieving its key business objectives. They are used to evaluate the success of an organization or a particular activity in reaching predefined targets. KPIs vary depending on the organization and its goals but typically reflect performance in areas such as revenue growth, customer satisfaction, efficiency, quality, and more."
+    }
+  ]
+}
