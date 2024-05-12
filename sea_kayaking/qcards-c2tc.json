@@ -106,6 +106,21 @@
       "categoryId": "4",
       "faceText": "Sluice Bridge (play on flood)",
       "flippedFaceText": "Tidal station: Tusket. LW. Work the flood tide."
+    },
+    {
+      "categoryId": "5",
+      "faceText": "What is the meaning of each letter in TTPPEE?",
+      "flippedFaceText": "Technical, Tactical, Physical, Psychological, Equipment  and Environment."
+    },
+    {
+      "categoryId": "5",
+      "faceText": "What do we mean by Shared Mental Model?",
+      "flippedFaceText": "Shared knowledge that enables team members to predict the needs of the task and anticipate the actions of other team members, allowing them to adjust their behavior accordingly."
+    },
+    {
+      "categoryId": "5",
+      "faceText": "What are the 6 categories of paddlers of a group (by Adam Harmer)?",
+      "flippedFaceText": "1.Pilots - copilots, 2.Participants - actively engaged, 3.Passengers - here to go to that island and back, 4.Prisoners - spouses, kids, dates, Protesters - chronic complainers, Pigs - consumers of everything."
     }
   ]
 } 
