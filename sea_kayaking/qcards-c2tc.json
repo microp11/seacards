@@ -76,6 +76,36 @@
       "categoryId": "3",
       "faceText": "Resources",
       "flippedFaceText": "As part of a trip planning exercise, access and use at least three different resources, to identify hazards or points of interest about a proposed route through level 2 conditions. Such resources may include but are not limited to, the names of other paddlers, guidebooks, trip reports, names of local boaters, sailing directions and/or local weather guides."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "The Stew",
+      "flippedFaceText": "Tidal station: Charlottetown. +2:00 HW. Above 7 feet range. Slack water. Surf on ebb."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "Blue Hill",
+      "flippedFaceText": "Tidal station: Blue Hill Harbour. +2:10 LW. Above 12 feet range. Surf on flood."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "Shubie",
+      "flippedFaceText": "Tidal station: Saint John NB. +4:20 LW. Surf on flood. For corroboration use +2:50 LW Burncoat Head."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "Argyle River",
+      "flippedFaceText": "Tidal station: Yarmouth. +2:30 HW. Above 11 feet range. Surf on ebb. 2:30 hours after high water the current starts to increase."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "Brier Island (LW for Gull - surf on flood, HW for Peter's Channel - surf on ebb.",
+      "flippedFaceText": "Tidal station: Westport. For Gull Rock use LW. Above 16 feet range. Surf on flood. For Peter's Channel use -0:30 HW. Surf on ebb."
+    },
+    {
+      "categoryId": "4",
+      "faceText": "Sluice Bridge",
+      "flippedFaceText": "Tidal station: Tusket. LW. Work the flood tide."
     }
   ]
-}
+} 
