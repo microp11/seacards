@@ -108,6 +108,11 @@
       "flippedFaceText": "Tidal station: Tusket. LW. Work the flood tide."
     },
     {
+      "categoryId": "4",
+      "faceText": "Clam Harbour (surf)",
+      "flippedFaceText": "Tidal station: Clam Harbour. Best 1h after HW or 2h after LW."
+    },
+    {
       "categoryId": "5",
       "faceText": "What is the meaning of each letter in TTPPEE?",
       "flippedFaceText": "Technical, Tactical, Physical, Psychological, Equipment  and Environment."
