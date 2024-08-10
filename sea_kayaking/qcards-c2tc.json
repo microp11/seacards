@@ -19,7 +19,7 @@
     {
       "categoryId": "1",
       "faceText": "Towing",
-      "flippedFaceText": "As the leader of a group manage a single tow (one person requiring assistance) for less than 30 minutes. Select an appropriate area to land a towed boat along an exposed coastline. Demonstrate effective quick release, re-deployment of personal tow system and the ability to quickly switch towers. Capsize, release and roll while towing in clam conditions."
+      "flippedFaceText": "As the leader of a group manage a single tow (one person requiring assistance) for less than 30 minutes. Select an appropriate area to land a towed boat along an exposed coastline. Demonstrate effective quick release, re-deployment of personal tow system and the ability to quickly switch towers. Capsize, release and roll while towing in calm conditions."
     },
     {
       "categoryId": "2",
@@ -80,37 +80,37 @@
     {
       "categoryId": "4",
       "faceText": "The Stew (wave on ebb)",
-      "flippedFaceText": "Tidal station: Charlottetown. +2:00 HW. Above 7 feet range. Slack water. Surf on ebb."
+      "flippedFaceText": "Tidal station: Charlottetown (01700). +2:00 HW. Above 7 feet range. Slack water. Surf on ebb."
     },
     {
       "categoryId": "4",
       "faceText": "Blue Hill (wave on flood)",
-      "flippedFaceText": "Tidal station: Blue Hill Harbour. +2:10 LW. Above 12 feet range. Surf on flood."
+      "flippedFaceText": "Tidal station: 8414112 Blue Hill Harbor. +2:10 LW. Above 12 feet range. Surf on flood."
     },
     {
       "categoryId": "4",
       "faceText": "Shubie (surf on flood)",
-      "flippedFaceText": "Tidal station: Saint John NB. +4:20 LW. Surf on flood. For corroboration use +2:50 LW Burncoat Head."
+      "flippedFaceText": "Tidal station: Saint John (00065). +4:20 LW. Surf on flood. For corroboration use +2:50 LW Burncoat Head."
     },
     {
       "categoryId": "4",
       "faceText": "Argyle River (play on ebb)",
-      "flippedFaceText": "Tidal station: Yarmouth. +2:30 HW. Above 11 feet range. Surf on ebb. 2:30 hours after high water the current starts to increase."
+      "flippedFaceText": "Tidal station: Yarmouth (00365). +2:30 HW. Above 11 feet range. Surf on ebb. 2:30 hours after high water the current starts to increase."
     },
     {
       "categoryId": "4",
       "faceText": "Brier Island (LW for Gull - play on flood, HW for Peter's Channel - play on ebb)",
-      "flippedFaceText": "Tidal station: Westport. For Gull Rock use LW. Above 16 feet range. Surf on flood. For Peter's Channel use -0:30 HW. Surf on ebb."
+      "flippedFaceText": "Tidal station: Westport (00340). For Gull Rock use LW. Above 16 feet range. Surf on flood. For Peter's Channel use -0:30 HW. Surf on ebb."
     },
     {
       "categoryId": "4",
       "faceText": "Sluice Bridge (play on flood)",
-      "flippedFaceText": "Tidal station: Tusket. LW. Work the flood tide."
+      "flippedFaceText": "Tidal station: Tusket (00378). LW. Work the flood tide."
     },
     {
       "categoryId": "4",
       "faceText": "Clam Harbour (surf)",
-      "flippedFaceText": "Tidal station: Clam Harbour. Best 1h after HW or 2h after LW."
+      "flippedFaceText": "Tidal station: Little Harbour (00497). Best 1h after HW or 2h after LW."
     },
     {
       "categoryId": "5",
@@ -126,6 +126,96 @@
       "categoryId": "5",
       "faceText": "What are the 6 categories of paddlers of a group (by Adam Harmer)?",
       "flippedFaceText": "1.Pilots - copilots, 2.Participants - actively engaged, 3.Passengers - here to go to that island and back, 4.Prisoners - spouses, kids, dates, 5.Protesters - chronic complainers, 6.Pigs - consumers of everything."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is: bearing?",
+      "flippedFaceText": "The direction from a position toward a destination, expressed in degrees."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is: course to steer?",
+      "flippedFaceText": "Direction of travel taking into consideration the tide (and the wind), expressed in degrees."
+    },
+    {
+      "categoryId": "6",
+      "faceText": "What is: heading?",
+      "flippedFaceText": "Heading is the direction your boat is pointing at, expressed in degrees."
+    },
+    {
+      "categoryId": "7",
+      "faceText": "Rolling",
+      "flippedFaceText": "Must show workings of a roll and have confidence to set up and attempt several times before wet exiting."
+    },
+    {
+      "categoryId": "7",
+      "faceText": "Unassisted Rescues",
+      "flippedFaceText": "Complete a solo re-entry in level 2 conditions (no time limit) while maintaining contact with boat and paddle."
+    },
+    {
+      "categoryId": "7",
+      "faceText": "Assisted Rescues",
+      "flippedFaceText": "Perform an assisted rescue as both victim and rescuer in approximately 1 minute in level 2 conditions."
+    },
+    {
+      "categoryId": "7",
+      "faceText": "Towing",
+      "flippedFaceText": "Have a tow system accessible and ready at all times appropriate while on the water. Participate in, as a member of a team, a challenging towing scenario for less than 30 minutes."
+    },
+    {
+      "categoryId": "8",
+      "faceText": "Launching",
+      "flippedFaceText": "Launch as part of a group in surf < 1 meter."
+    },
+    {
+      "categoryId": "8",
+      "faceText": "Landing",
+      "flippedFaceText": "Land as part of a group in surf < 1 meter."
+    },
+    {
+      "categoryId": "8",
+      "faceText": "Forward Paddling",
+      "flippedFaceText": "Maintain sufficient speed and directional control while paddling in a head, beam and stern wind of less than 20 knots over a distance of 1 nautical mile without the use of skegs and rudders. Torso rotation should be evident."
+    },
+    {
+      "categoryId": "8",
+      "faceText": "Manoeuvring",
+      "flippedFaceText": "Demonstrate consistent use of edging to assist turning. Demonstrate the effective linking of strokes to perform a bow rudder, low brace turn and high brace turn."
+    },
+    {
+      "categoryId": "8",
+      "faceText": "Bracing",
+      "flippedFaceText": "Remain upright and demonstrate safe positioning of body while broached and braced into a wave of height < 1 meter. Preparation and set up permitted."
+    },
+    {
+      "categoryId": "9",
+      "faceText": "Communication",
+      "flippedFaceText": "Understand appropriate arm and/or hand signals to land in surf < 1 meter."
+    },
+    {
+      "categoryId": "9",
+      "faceText": "Navigation",
+      "flippedFaceText": "Piloting: identify 2 out of 4 landmarks in a given area using transits, handrails, backstops and/or bearings. Dead (deductive) Reckoning: From Sea, plot an accurate dead reckoning course identifying heading, distance and estimated time. Follow bearing and arrive at desired location. Participate in a paddle in low visibility conditions (night or fog)."
+    },
+    {
+      "categoryId": "9",
+      "faceText": "Weather",
+      "flippedFaceText": "In a logbook provide, in writing, 3-days of prior weather information and a personal forecast for departure date. Use a professional forecast to assist a group plan a day's journey while on an overnight trip. Identify a likely area on a chart with land/wind interactions such as gap winds, clapotis, etc. for level 2 conditions."
+    },
+    {
+      "categoryId": "9",
+      "faceText": "Leadership",
+      "flippedFaceText": "Demonstrates good 'expedition behaviour', frequently assisting with camp chores such as cooking, cleaning, setting up tarps, looking after camp, other participants and group equipment. While journeying in Level 2 conditions, maintain group and personal separation that allows for visual and clear audio contact within the group and/or with the designated paddle buddy."
+    },
+    {
+      "categoryId": "9",
+      "faceText": "Trip Planning",
+      "flippedFaceText": "Actively participate, as a member of a group, in planning and packing for an overnight trip. Take appropriate personal equipment and clothing appropriate for an overnight trip."
+    },
+    {
+      "categoryId": "9",
+      "faceText": "Resources",
+      "flippedFaceText": "Identify at least 3 resources to assist in the planning of an overnight trip to an unfamiliar area."
     }
   ]
 } 
